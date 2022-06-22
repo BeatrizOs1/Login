@@ -1,14 +1,3 @@
-style.css
-/* geral */
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: Helvetica;
-  color: #323232;
-  border: none;
-}
 
 body {
   background-image: url('pensamentos.jpg');
@@ -113,7 +102,7 @@ input[type="submit"]:hover {
   background-color: #3B5998;
 }
 
-.fa-linkedin {
+.fa-google {
   background-color: #0077B5;
 }
 
